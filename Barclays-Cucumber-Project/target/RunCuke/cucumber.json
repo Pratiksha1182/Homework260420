@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 36318460200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "User should be able navigate to bank menu and view details",
+        "description": "",
+        "id": "bank-menu-functionality;user-should-be-able-navigate-to-bank-menu-and-view-details",
+        "after": [
+          {
+            "result": {
+              "duration": 1249928600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1252002800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on home page",
+            "match": {
+              "location": "MenuStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 975401800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I mouse hover on bank",
+            "match": {
+              "location": "MenuStepdefs.iMouseHoverOnBank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15407285700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I mouse hover and click on switching bank account to Barclays",
+            "match": {
+              "location": "MenuStepdefs.iMouseHoverAndClickOnSwitchingBankAccountToBarclays()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 674877600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on new to us button",
+            "match": {
+              "location": "MenuStepdefs.iClickOnNewToUsButton()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Bank menu functionality",
+    "description": "As a user I want to go in bank menu and view details in Barclays",
+    "id": "bank-menu-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/uk/co/barclays/resources/featurefile/bankmanu.feature"
+  }
+]

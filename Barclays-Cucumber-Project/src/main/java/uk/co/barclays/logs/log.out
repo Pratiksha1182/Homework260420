@@ -1,0 +1,17 @@
+2020-04-28 16:04:67 INFO  HomePage :40 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (dcf6ee897acb34ef2c853bedab613e27)] -> link text: Bank]
+2020-04-28 16:04:179 INFO  HomePage :45 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-28 16:04:318 INFO  HomePage :50 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (dcf6ee897acb34ef2c853bedab613e27)] -> xpath: //a[@class='btn btn-secondary']]
+2020-04-28 16:04:71 INFO  HomePage :40 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (3c1006eb0a842d74b0813c8d93615b3c)] -> link text: Bank]
+2020-04-28 16:04:619 INFO  HomePage :45 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-28 16:04:277 INFO  HomePage :50 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (3c1006eb0a842d74b0813c8d93615b3c)] -> xpath: //a[@class='btn btn-secondary']]
+2020-04-28 16:04:872 INFO  HomePage :40 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (4eb64ba64d6f73c6698e459fd2c2ed17)] -> link text: Bank]
+2020-04-28 16:04:414 INFO  HomePage :45 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-28 16:04:411 INFO  HomePage :50 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (4eb64ba64d6f73c6698e459fd2c2ed17)] -> xpath: //a[@class='btn btn-secondary']]
+2020-04-28 16:04:524 INFO  HomePage :40 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (c1fbc0f21d2cd1374181b2519b725572)] -> link text: Bank]
+2020-04-28 16:04:469 INFO  HomePage :40 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (16378b571ca9b9bd9b4ea3f8cda4074b)] -> link text: Bank]
+2020-04-28 16:04:875 INFO  HomePage :40 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (bc2b04d3a7c623e064bdfc2c4ac946c4)] -> link text: Bank]
+2020-04-28 16:04:870 INFO  HomePage :45 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-28 16:04:40 INFO  HomePage :50 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (bc2b04d3a7c623e064bdfc2c4ac946c4)] -> xpath: //a[@class='btn btn-secondary']]
+2020-04-28 17:04:660 INFO  HomePage :40 - Mouse Hovering on Bank Menu[[ChromeDriver: chrome on WINDOWS (674b0c44f37e400ee39558794e4f86a9)] -> link text: Bank]
+2020-04-28 17:04:105 INFO  HomePage :45 - Mouse Hover to switching bank account to Barclays and clickingProxy element for: DefaultElementLocator 'By.linkText: Switching bank account to Barclays'
+2020-04-28 17:04:806 INFO  HomePage :50 - Clicking on new to us button[[ChromeDriver: chrome on WINDOWS (674b0c44f37e400ee39558794e4f86a9)] -> xpath: //a[@class='btn btn-secondary']]

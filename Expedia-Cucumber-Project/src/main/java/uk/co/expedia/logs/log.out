@@ -1,0 +1,18 @@
+2020-04-29 23:04:592 INFO  BrowserSelector :18 - Launching Chrome Browser
+2020-04-29 23:04:23 INFO  HomePage :30 - Clicking on flights tab[[ChromeDriver: chrome on WINDOWS (263d055bd2e2d1433aa134193343c624)] -> xpath: //button[@id='tab-flight-tab-hp']//span[@class='uitk-icon uitk-icon-flights']]
+2020-04-29 23:04:466 INFO  FlightsPage :53 - Entering flying fromLondonOn flying from field[[ChromeDriver: chrome on WINDOWS (263d055bd2e2d1433aa134193343c624)] -> id: flight-origin-hp-flight]
+2020-04-29 23:04:348 INFO  FlightsPage :59 - Entering going toAhmedabad On going to field[[ChromeDriver: chrome on WINDOWS (263d055bd2e2d1433aa134193343c624)] -> id: flight-destination-hp-flight]
+2020-04-29 23:04:251 INFO  FlightsPage :65 - Entering departing date01/07/2020 On departing date field [[ChromeDriver: chrome on WINDOWS (263d055bd2e2d1433aa134193343c624)] -> id: flight-departing-hp-flight]
+2020-04-29 23:04:962 INFO  FlightsPage :71 - Entering returning date19/07/2020 On returning date field[[ChromeDriver: chrome on WINDOWS (263d055bd2e2d1433aa134193343c624)] -> id: flight-returning-hp-flight]
+2020-04-29 23:04:833 INFO  BrowserSelector :18 - Launching Chrome Browser
+2020-04-29 23:04:268 INFO  HomePage :36 - Clicking on account menu[[ChromeDriver: chrome on WINDOWS (01967f826f1dd28b22647211b1976b9e)] -> id: header-account-menu]
+2020-04-29 23:04:921 INFO  HomePage :49 - Clicking on Sign In Tab : [[ChromeDriver: chrome on WINDOWS (01967f826f1dd28b22647211b1976b9e)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-29 23:04:921 INFO  SignInPage :37 - Entering email pattypratiksha@gmail.com On email address field [[ChromeDriver: chrome on WINDOWS (01967f826f1dd28b22647211b1976b9e)] -> id: gss-signin-email]
+2020-04-29 23:04:513 INFO  SignInPage :43 - Entering password jay1ambe On password field [[ChromeDriver: chrome on WINDOWS (01967f826f1dd28b22647211b1976b9e)] -> id: gss-signin-password]
+2020-04-29 23:04:867 INFO  SignInPage :49 - Clicking on sign in button [[ChromeDriver: chrome on WINDOWS (01967f826f1dd28b22647211b1976b9e)] -> id: gss-signin-submit]
+2020-04-29 23:04:237 INFO  BrowserSelector :18 - Launching Chrome Browser
+2020-04-29 23:04:21 INFO  HomePage :36 - Clicking on account menu[[ChromeDriver: chrome on WINDOWS (d0f93bbae77266a21ccf25a9b0bddf72)] -> id: header-account-menu]
+2020-04-29 23:04:666 INFO  HomePage :49 - Clicking on Sign In Tab : [[ChromeDriver: chrome on WINDOWS (d0f93bbae77266a21ccf25a9b0bddf72)] -> xpath: //button[@id='header-account-signin-button']]
+2020-04-29 23:04:267 INFO  SignInPage :37 - Entering email pratikshapatel1182@gmail.com On email address field [[ChromeDriver: chrome on WINDOWS (d0f93bbae77266a21ccf25a9b0bddf72)] -> id: gss-signin-email]
+2020-04-29 23:04:755 INFO  SignInPage :43 - Entering password qwerjjr On password field [[ChromeDriver: chrome on WINDOWS (d0f93bbae77266a21ccf25a9b0bddf72)] -> id: gss-signin-password]
+2020-04-29 23:04:71 INFO  SignInPage :49 - Clicking on sign in button [[ChromeDriver: chrome on WINDOWS (d0f93bbae77266a21ccf25a9b0bddf72)] -> id: gss-signin-submit]
